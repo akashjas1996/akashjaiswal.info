@@ -1,0 +1,19 @@
+[13-Mar-2019 14:42:53 Asia/Kolkata] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/learnast/akashjaiswal.info/quotes/login/login.php on line 19
+[13-Mar-2019 14:42:53 Asia/Kolkata] PHP Notice:  Use of undefined constant Register - assumed 'Register' in /home/learnast/akashjaiswal.info/quotes/login/login.php on line 23
+[13-Mar-2019 14:44:00 Asia/Kolkata] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/learnast/akashjaiswal.info/quotes/login/login.php on line 19
+[13-Mar-2019 14:46:32 Asia/Kolkata] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/learnast/akashjaiswal.info/quotes/login/login.php on line 19
+[13-Mar-2019 14:46:32 Asia/Kolkata] PHP Notice:  Use of undefined constant Register - assumed 'Register' in /home/learnast/akashjaiswal.info/quotes/login/login.php on line 23
+[13-Mar-2019 14:46:34 Asia/Kolkata] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/learnast/akashjaiswal.info/quotes/login/login.php on line 19
+[13-Mar-2019 14:46:34 Asia/Kolkata] PHP Notice:  Use of undefined constant Register - assumed 'Register' in /home/learnast/akashjaiswal.info/quotes/login/login.php on line 23
+[13-Mar-2019 14:46:36 Asia/Kolkata] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/learnast/akashjaiswal.info/quotes/login/login.php on line 19
+[13-Mar-2019 14:48:26 Asia/Kolkata] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/learnast/akashjaiswal.info/quotes/login/login.php on line 19
+[13-Mar-2019 14:48:28 Asia/Kolkata] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/learnast/akashjaiswal.info/quotes/login/login.php on line 19
+[13-Mar-2019 14:48:30 Asia/Kolkata] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/learnast/akashjaiswal.info/quotes/login/login.php on line 19
+[13-Mar-2019 14:48:52 Asia/Kolkata] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/learnast/akashjaiswal.info/quotes/login/login.php on line 19
+[13-Mar-2019 15:04:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/learnast/akashjaiswal.info/quotes/login/login.php on line 89
+[13-Mar-2019 21:03:27 Asia/Kolkata] PHP Notice:  Undefined index: connect in /home/learnast/akashjaiswal.info/quotes/login/login.php on line 26
+[13-Mar-2019 21:03:27 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/learnast/akashjaiswal.info/quotes/login/login.php on line 26
+[13-Mar-2019 21:03:27 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/learnast/akashjaiswal.info/quotes/login/login.php on line 27
+[13-Mar-2019 22:47:57 Asia/Kolkata] PHP Notice:  Undefined index: connect in /home/learnast/akashjaiswal.info/quotes/login/login.php on line 26
+[13-Mar-2019 22:47:57 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/learnast/akashjaiswal.info/quotes/login/login.php on line 26
+[13-Mar-2019 22:47:57 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/learnast/akashjaiswal.info/quotes/login/login.php on line 27
